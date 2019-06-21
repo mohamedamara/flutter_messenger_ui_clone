@@ -1,6 +1,8 @@
 # flutter_messenger_ui_clone
 
-A new Flutter project.
+Messenger UI Clone Using Flutter
+
+## Screenshot
 
 ## Getting Started
 
