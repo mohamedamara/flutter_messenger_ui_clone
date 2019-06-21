@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="screenshot/messenger_ui_clone.gif" width="384" height="640" >
+<img src="screenshot/messenger_ui_clone.gif" width="307" height="512" >
 
 ![](screenshot/messenger_ui_clone.gif)
 
