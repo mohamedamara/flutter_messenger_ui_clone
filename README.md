@@ -4,8 +4,6 @@ A new Flutter project.
 
 <img src="screenshot/messenger_ui_clone.gif" width="307" height="512" >
 
-![](screenshot/messenger_ui_clone.gif)
-
 ## Getting Started
 
 This project is a starting point for a Flutter application.
