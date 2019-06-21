@@ -1,6 +1,8 @@
 # flutter_messenger_ui_clone
 
-A new Flutter project.
+Messenger UI Clone Using Flutter
+
+## Screenshot
 
 <img src="screenshot/messenger_ui_clone.gif" width="307" height="512" >
 
