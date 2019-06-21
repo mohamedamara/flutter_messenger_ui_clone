@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](screenshot/messenger_ui_clone.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
