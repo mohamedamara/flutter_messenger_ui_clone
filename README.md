@@ -4,6 +4,8 @@ Messenger UI Clone Using Flutter
 
 ## Screenshot
 
+<img src="screenshot/messenger_ui_clone.gif" width="307" height="512" >
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
