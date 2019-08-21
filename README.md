@@ -4,7 +4,7 @@ Messenger UI Clone Using Flutter.
 
 ## Screenshot
 
-<img src="screenshot/messenger_ui_clone.gif" width="307" height="512" >
+<img src="screenshot/screenshot.png" width="307" height="512" >
 
 ## Getting Started
 
