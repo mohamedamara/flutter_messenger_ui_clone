@@ -4,4 +4,4 @@ Messenger UI Clone Using Flutter (Messenger June 2019 version) .
 
 ## Screenshot
 
-<img src="screenshot/screenshot.png" width="307" height="512" >
+<img src="screenshot/app_screenshot.png" width="360" height="694" >
