@@ -1,6 +1,6 @@
 # flutter_messenger_ui_clone
 
-Messenger UI Clone Using Flutter (Messenger June 2019 version) .
+Messenger UI Clone Using Flutter (Facebook Messenger June 2019 version) .
 
 ## Screenshot
 
