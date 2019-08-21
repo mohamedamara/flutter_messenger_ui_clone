@@ -10,7 +10,7 @@ class _SearchListItemState extends State<SearchListItem> {
 
   @override
   void initState() {
-    _searchController = new TextEditingController(text: 'Search');
+    _searchController = TextEditingController();
     super.initState();
   }
 
@@ -22,13 +22,22 @@ class _SearchListItemState extends State<SearchListItem> {
 
   @override
   Widget build(BuildContext context) {
-    return               Container(
+    return Container(
       height: 60,
       padding: EdgeInsets.symmetric(vertical: 8, horizontal: 16),
       child: TextField(
+        textAlignVertical: TextAlignVertical.bottom,
         controller: _searchController,
-        style: TextStyle(color: Colors.black54, fontSize: 17),
+        style: TextStyle(
+          color: Colors.black54,
+          fontSize: 17,
+        ),
         decoration: InputDecoration(
+          hintText: "Search",
+          hintStyle: TextStyle(
+            color: Colors.black54,
+            fontSize: 17,
+          ),
           enabled: false,
           fillColor: Colors.grey[200],
           filled: true,

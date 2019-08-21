@@ -7,11 +7,11 @@ class StoryListItem extends StatelessWidget {
       leading: Container(
         width: 45,
         height: 45,
-        child: new RawMaterialButton(
+        child: RawMaterialButton(
           fillColor: Colors.grey[200],
-          shape: new CircleBorder(),
+          shape: CircleBorder(),
           elevation: 0.0,
-          child: new Icon(
+          child: Icon(
             Icons.add,
             color: Colors.black,
           ),

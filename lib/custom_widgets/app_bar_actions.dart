@@ -17,7 +17,7 @@ class AppBarActions extends StatelessWidget {
             width: 15,
           ),
           RotationTransition(
-            turns: new AlwaysStoppedAnimation(-16 / 360),
+            turns: AlwaysStoppedAnimation(-16 / 360),
             child: CircleButton(
               onTap: () {},
               iconData: Icons.edit,
